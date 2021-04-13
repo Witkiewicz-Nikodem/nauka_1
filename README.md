@@ -1,2 +1,3 @@
 # nauka_1
-# cos sobie tu napisze
+# tutaj konczy się to co napisalem w głownej gałęzi
+# a tutaj są zmiany z brancha
